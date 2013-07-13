@@ -1,4 +1,0 @@
-myRepo
-======
-
-startup-class-test
